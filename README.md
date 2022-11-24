@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Soyash Sondhi
 
-I am a software developer interested in web3 
+I am an avid Smart contract/Blockchian developer interested in Web3.
 
 - 🔭 I’m currently building Dapps on Ethereum and Solana.
 - 🌱 I’m currently learning full stack developement in blockchain!
