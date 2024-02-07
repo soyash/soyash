@@ -9,12 +9,6 @@
 
 ### Hi there 👋, I'm Soyash Sondhi
 
-I am an avid Smart contract/Blockchian developer interested in building Web3.
-
-- 🔭 I’m currently building Dapps on Ethereum and Solana.
-- 🌱 I’m currently learning full stack developement in blockchain!
-
-
 ### :hammer_and_wrench: Tech I have experience with:
 
 <div>
